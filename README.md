@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SACHIN TUPSAMUNDAR</h1>
-<h3 align="center">A passionate AI Application Architect Engineer from India</h3>
+<h3 align="center">A passionate AI Application Architect from India</h3>
 <img align="right" alt="Coding" width="450" src=https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif>
 
 - 🔭 I’m currently working on **Agentic AI, Agentic RAG & MCP and A2A Protocol**
